@@ -14,6 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techkancode&layout=compact)]
+<div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techkancode&layout=compact)
+</div>
+<div>
+  ## 使用技術一覧
+  
+  <!-- シールド一覧 -->
+  <!-- 該当するプロジェクトの中から任意のものを選ぶ-->
+  <p style="display: inline">
+    <!-- フロントエンドのフレームワーク一覧 -->
+    <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <!-- バックエンドのフレームワーク一覧 -->
+    <img src="https://img.shields.io/badge/-Node.js-000000.svg?logo=node.js&style=for-the-badge">
+    <!-- ミドルウェア一覧 -->
+    <!-- インフラ一覧 -->
+  </p>
+</div>
 
