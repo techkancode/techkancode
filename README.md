@@ -1,6 +1,6 @@
 # Welcome to my github channel 👋
 I've got started studying web apprication development since half year. This channel is notebook to be a great engineer in my future!
-
+![Kanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=techkancode&theme=vue-dark&show_icons=true)](https://github.com/techkancode/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techkancode&layout=compact)
 
 ## 使用技術一覧
