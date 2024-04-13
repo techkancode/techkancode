@@ -1,5 +1,6 @@
 # Welcome to my github channel 👋
-I've got started studying web apprication development since half year. This channel is notebook to be a great engineer in my future!
+I've got started studying web apprication development since half year. 
+This channel is notebook to be a great engineer in my future!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techkancode&layout=compact)
 
@@ -7,7 +8,7 @@ I've got started studying web apprication development since half year. This chan
 <!-- 使用技術一覧 -->
 
 <!-- シールド一覧 -->
-### Language
+#### Language
 <p style="display: inline">
   <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=61DAFB">
 </p>
@@ -33,7 +34,7 @@ I've got started studying web apprication development since half year. This chan
   <img src="https://img.shields.io/badge/-mongoose-880000.svg?logo=mongoose&style=for-the-badge">
 </p>
 
-### Studying
+## Studying
 <!-- 学習中技術 -->
 
 <!-- シールド一覧 -->
