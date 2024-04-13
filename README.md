@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techkancode&layout=compact)
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techkancode&layout=compact)
 <div>
   ## 使用技術一覧
   
