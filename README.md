@@ -1,4 +1,5 @@
-### Hi there 👋
+# Welcome to my github channel 👋
+## This channel is notebook to be a great engineer in my future!
 
 <!--
 **techkancode/techkancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
