@@ -1,5 +1,5 @@
 # Welcome to my github channel 👋
-This channel is notebook to be a great engineer in my future!
+I've got started studying web apprication development since half year. This channel is notebook to be a great engineer in my future!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techkancode&layout=compact)
 
@@ -11,37 +11,37 @@ This channel is notebook to be a great engineer in my future!
   <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=61DAFB">
 </p>
 
-### フロントエンドフレームワーク
+#### フロントエンドフレームワーク
 <p style="display: inline">
   <!-- フロントエンドのフレームワーク一覧 -->
   <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
-### バックエンドフレームワーク&開発環境
+#### バックエンドフレームワーク&開発環境
 <p style="display: inline">
   <!-- バックエンドのフレームワーク一覧 -->
   <img src="https://img.shields.io/badge/-express-000000.svg?logo=express&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Node.js-000000.svg?logo=node.js&style=for-the-badge">
 </p>
 
-### ミドルウェア
+#### ミドルウェア
 <p style="display: inline">
   <!-- ミドルウェア一覧 -->
   <img src="https://img.shields.io/badge/-mongodb-47A248.svg?logo=mongodb&style=for-the-badge">
   <img src="https://img.shields.io/badge/-mongoose-880000.svg?logo=mongoose&style=for-the-badge">
 </p>
 
-## 学習中技術一覧
+### 学習中技術一覧
 
 <!-- シールド一覧 -->
-### プログラミング言語
+#### プログラミング言語
 <p style="display: inline">
   <!-- フロントエンドのフレームワーク一覧 -->
   <img src="https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/-TailwindCSS-000000.svg?logo=tailwindcss&style=for-the-badge">
 </p>
 
-### フレームワーク
+#### フレームワーク
 <p style="display: inline">
   <!-- フロントエンド一覧 -->
   <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=for-the-badge">
